@@ -1,3 +1,5 @@
+# empty-cloud-function
+
 Output of:
 
 ```bash

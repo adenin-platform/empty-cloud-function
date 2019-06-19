@@ -1,7 +1,7 @@
 {
   "name": "empty-cloud-function",
   "version": "1.0.0",
-  "description": "empty-cloud-function cloud function repository",
+  "description": "empty-cloud-function",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
@@ -10,8 +10,7 @@
   "dependencies": {
     "@adenin/cf-provider": "^2.6.4",
     "agentkeepalive": "^4.0.2",
-    "got": "^9.6.0",
-    "rss-parser": "^3.7.0"
+    "got": "^9.6.0"
   },
   "devDependencies": {
     "@adenin/cf-logger": "^1.6.1",
@@ -19,6 +18,6 @@
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.18.11"
   }
 }

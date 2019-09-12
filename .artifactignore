@@ -1,7 +1,0 @@
-.vscode/
-.*
-app.js
-azure-pipelines.yml
-package-lock.json
-package.json
-*.md

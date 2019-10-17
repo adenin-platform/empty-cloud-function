@@ -1,4 +1,3 @@
-# trigger build for azure branch only - and ignore /docs/ (images will bloat deploy pkg)
 trigger:
   branches:
     include:

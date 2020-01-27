@@ -8,11 +8,7 @@
     "dev": "./node_modules/.bin/nodemon app.js"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@adenin/cf-provider": "^2.8.10",
-=======
-    "@adenin/cf-provider": "^2.8.9",
->>>>>>> 38c20883732291a75a2bee1cccd853289141bc11
     "agentkeepalive": "^4.1.0",
     "got": "^9.6.0"
   },
